@@ -18,6 +18,9 @@
 <h2>License - MIT License<h2>
 <h3>Refer to license to see permissions<h3>
 
-<h2>Website link: https://bemonn.github.io/MyPortfolio-Challenge2-Advanced-CSS-Portfolio/ <h3>
+<h2>Website link: https://bemonn.github.io/MyPortfolio-Challenge2-Advanced-CSS-Portfolio/ <h2>
+
+<h2> Additonal Notes: <h2>
+<h3> Certain aspects are missing such as a resume, linkedin and projects. This is because these do not exist yet and are subject to be added to the portfolio when it is expanded upon in the future.
 
 ![Alt text](assets/Screenshot%202023-06-01%20185517.png)
